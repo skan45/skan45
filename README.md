@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on projects involving full-stack development, data science, or innovative DevOps solutions.
 - 📫 How to reach me: You can reach me via [gritliskander42@gmail.com] or connect with me on my linkedIn [https://www.linkedin.com/in/skander-gritli-593234263/].
 ## Skills
-- **Languages**: Python, JavaScript, Java, C, C++, PHP
+- **Languages**: Python, JavaScript, Java, C, C++, PHP , Typescript
 - **Frameworks & Libraries**: Flask, ReactJS, ExpressJS, NextJS, NodeJS, TensorFlow
 - **Databases**: MongoDB, SQL
 - **Tools & Technologies**: Docker, Kubernetes, GitHub Actions , Github , Linux 
