@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skander Gritli</h1>
 
-- 🌱 I’m currently learning **DevOps, including advanced Docker, Kubernetes, and GitHub Actions**
+- 🌱 I’m currently learning **AWS Certified Developer Associate**
 
 - 👯 I’m looking to collaborate on **projects involving full-stack development, data science, or innovative DevOps solutions.**
 
